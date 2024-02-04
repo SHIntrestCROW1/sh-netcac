@@ -1,0 +1,7 @@
+<!-- wtf svg --> 
+<svg width = "320" height = "432">
+<path d="M 10 10 L30 10 L30 30 L10 30 Z"/>
+<rect width="13" height="21" 
+     x="0" y="0" fill="blue"/>
+<circle cx = "0" cy = "0" r = "10" fill = "red"/>
+</svg>
