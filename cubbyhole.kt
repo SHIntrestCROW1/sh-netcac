@@ -33,7 +33,7 @@ class Cubbyhole {
       swap()
       towc()
     }
-    fun swap(args: Cubbyhole<Handler>):
+    fun swap(args: Cubbyhole<Handler>) {
       var Instance = Cubbyhole()
       var HandlerForInstance = Cubbyhole.textclass
       printIn("Classes were invoked.")
