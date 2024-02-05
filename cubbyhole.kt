@@ -1,5 +1,5 @@
 class Cubbyhole {
-  public fun define {
+  public fun define() {
     var textclass = Handler();
     val hieght = 42
     val deepness = 43
@@ -9,7 +9,7 @@ class Cubbyhole {
   }
 }
   class Handler {
-    public fun defnotran {
+    public fun defnotran() {
       var gender = "defnransexual"
       val age = 50
       var mm = false
