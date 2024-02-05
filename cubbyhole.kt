@@ -43,5 +43,5 @@ class Cubbyhole {
       towc()
   }  
     fun towc() {
-      printIn("The operation successfully completed.)
+      printIn("The operation successfully completed.")
       }
