@@ -1,0 +1,3 @@
+set %xbat% 1
+echo %xbat%
+start tool
