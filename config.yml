@@ -1,0 +1,31 @@
+---
+!!map {
+  ? !!str "config"
+  : !!map {
+    ? !!str "version"
+    : !!int "2",
+  },
+  ? !!str "hife"
+  : !!map {
+    ? !!str "ic"
+    : !!str "\u4E16\u5F32\u66B4\u920A\u9EBC\u5B3F",
+    ? !!str "layers"
+    : !!map {
+      ? !!str "g"
+      : !!map {
+        ? !!str "ig"
+        : !!str "\u42AC\u8C4D\u431E\u84DC",
+        ? !!str "k"
+        : !!map {
+          ? !!str "a"
+          : !!map {
+            ? !!str "k"
+            : !!str "0",
+            ? !!str "nr"
+            : !!str "\u43E2",
+          },
+        },
+      },
+    },
+  },
+}
