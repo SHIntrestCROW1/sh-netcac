@@ -1,0 +1,6 @@
+; Setup tool
+[/] ;Target root
+:NEW_ROOT
+[/NEW_ROOT] ;New root
+@dword(1):ToolStart
+@hex(31):ToolExecute
